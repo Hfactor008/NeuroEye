@@ -22,7 +22,7 @@ The optokinetic nystagmus (OKN) test measures an individual's ability to perform
 
 ![OKN_test_gif](https://user-images.githubusercontent.com/52005483/209618499-7f352ef2-e713-4442-a8c2-5445d9c5c960.gif)
 
-# Aknowlagment 
+# Acknowledgment 
 Reference the related research work that published the digital adaption of neurological eye examination
 
 @article{hassan2022approach,
