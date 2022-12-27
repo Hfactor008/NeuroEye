@@ -5,7 +5,7 @@ This repository contains a version of the digital adaption of neurological eye e
 
 The Dot Test is designed to assess the quality of eye coordination for each saccade. A clinician observes the movement of both eyes as the patient shifts their gaze from target to target. The clinician looks for the eyes to suddenly move to the next visual target and stop accurately at its destination. Abnormal signs include the eyes stopping short or too far away from the target, known as under or over-shooting, respectively, or the eyes do not initiate a saccade.
 
-![Dot](https://user-images.githubusercontent.com/52005483/209616241-c6076411-8672-4435-94c2-9e8a6ffe6688.gif)
+![](https://user-images.githubusercontent.com/52005483/209616241-c6076411-8672-4435-94c2-9e8a6ffe6688.gif)
 
 
 
